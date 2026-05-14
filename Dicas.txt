@@ -1,1 +1,1 @@
-Sempre coloque commits
+Sempre coloque boas mensagens de commits
